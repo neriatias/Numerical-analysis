@@ -2,7 +2,8 @@
 נתיב לוי 209150879
 נריה אטיאס 316118728
 '''
-
+# Neria - https://github.com/neriatias/Numerical-analysis/blob/main/ex1/ex1-analyza.py
+# Nativ - https://github.com/nativlevi/Numericle-analysis.git
 import numpy as np
 
 
